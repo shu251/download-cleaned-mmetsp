@@ -1,10 +1,10 @@
 ### Downloading the MMETSP database from cyverse
 
-There was a recent update to the MMETSP database where the reads were cleaned using the Winston cleaner (insert link). 
+There was a recent update to the MMETSP database where the reads were cleaned of potential contamination with [Winston cleaner](https://github.com/kolecko007/WinstonCleaner). Below are the steps I took to download the cleaned version of the fasta and pep reads from Cyverse. 
 
 #### Requirements
-* Access to Cyverse
-* Ability to use iCommands
+* Access to [Cyverse](http://datacommons.cyverse.org)
+* Ability to use [iCommands](https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html)
 
 
 #### Set-up repo & gain access to Cyverse
