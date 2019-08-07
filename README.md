@@ -59,8 +59,4 @@ module load irods
 bash download-mmetsp.sh
 ```
 
-#### Re-assemble cleaned reads?
-
-#### Wrangle taxonomic identities?
-
-#### Prepare as a database
+### Link to EUKulele
